@@ -4,3 +4,5 @@ print("Adding new line")
 print("Adding ine to understand git diff")
 print ("hggf")
 print("This change is made in feature-branch")
+print("Change from conflict-branch")
+
